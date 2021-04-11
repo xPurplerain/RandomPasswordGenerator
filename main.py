@@ -1,6 +1,6 @@
 import random
 
-# Hier stehen alle Buchstaben die zufällig zusammen gefügt werden
+# Hier stehen alle Zeichen die zufällig zusammen gefügt werden
 zeichen = "abcdefghijklmonopqrstuvwxyzABCDEFGHIJKLMONOPQRSTUVWXYZ1234567890!§$%&/()=?'#-_.;,:-"
 
 while 1:
