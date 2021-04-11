@@ -11,4 +11,4 @@ while 1:
         for x in range(0, passwd_laenge):
             password_zeichen = random.choice(zeichen)
             password = password + password_zeichen
-        print("Fertig -- Hier ist dein zufälliges Passwort: ", password)
+        print("\nFertig -- Hier ist dein zufälliges Passwort: ", password, "\n")
